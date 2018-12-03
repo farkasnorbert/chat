@@ -1,0 +1,3 @@
+C:/Users/farka/Desktop/halozatok/chat/szerver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/farka/Desktop/halozatok/chat/szerver/cmake-build-debug/CMakeFiles/szerver.dir
+C:/Users/farka/Desktop/halozatok/chat/szerver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
