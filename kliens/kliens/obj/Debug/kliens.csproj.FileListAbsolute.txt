@@ -1,0 +1,10 @@
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\bin\Debug\kliens.exe.config
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\bin\Debug\kliens.exe
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\bin\Debug\kliens.pdb
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.csprojResolveAssemblyReference.cache
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.Properties.Resources.resources
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.csproj.GenerateResource.cache
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.csproj.CoreCompileInputs.cache
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.exe
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.pdb
+C:\Users\farka\Desktop\halozatok\chat\kliens\kliens\obj\Debug\kliens.Chat.resources
