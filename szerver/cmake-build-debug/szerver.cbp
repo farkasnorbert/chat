@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/farka/Desktop/halozatok/chat/szerver/SysThread.cpp">
+			<Option target="szerver"/>
+		</Unit>
+		<Unit filename="C:/Users/farka/Desktop/halozatok/chat/szerver/SysThread.h">
+			<Option target="szerver"/>
+		</Unit>
 		<Unit filename="C:/Users/farka/Desktop/halozatok/chat/szerver/main.cpp">
 			<Option target="szerver"/>
 		</Unit>

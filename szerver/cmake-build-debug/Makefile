@@ -122,6 +122,33 @@ szerver/fast:
 	$(MAKE) -f CMakeFiles\szerver.dir\build.make CMakeFiles/szerver.dir/build
 .PHONY : szerver/fast
 
+SysThread.obj: SysThread.cpp.obj
+
+.PHONY : SysThread.obj
+
+# target to build an object file
+SysThread.cpp.obj:
+	$(MAKE) -f CMakeFiles\szerver.dir\build.make CMakeFiles/szerver.dir/SysThread.cpp.obj
+.PHONY : SysThread.cpp.obj
+
+SysThread.i: SysThread.cpp.i
+
+.PHONY : SysThread.i
+
+# target to preprocess a source file
+SysThread.cpp.i:
+	$(MAKE) -f CMakeFiles\szerver.dir\build.make CMakeFiles/szerver.dir/SysThread.cpp.i
+.PHONY : SysThread.cpp.i
+
+SysThread.s: SysThread.cpp.s
+
+.PHONY : SysThread.s
+
+# target to generate assembly for a file
+SysThread.cpp.s:
+	$(MAKE) -f CMakeFiles\szerver.dir\build.make CMakeFiles/szerver.dir/SysThread.cpp.s
+.PHONY : SysThread.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... szerver
 	@echo ... rebuild_cache
+	@echo ... SysThread.obj
+	@echo ... SysThread.i
+	@echo ... SysThread.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
